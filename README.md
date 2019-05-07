@@ -1,1 +1,1 @@
-# microverse-project-2
+# A simple Bill Gates Tribute Page
