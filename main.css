@@ -30,3 +30,7 @@ box-shadow: 0px 13px 28px 0px rgba(0,0,0,0.5)
 .footer-page a {
   color: #9bcbff;
 }
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link  {
+    background-color: rgb(45,50,70);
+}
