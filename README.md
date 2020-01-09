@@ -11,7 +11,7 @@ It is a Bill Gates tribute page.
 
 # Live Version
 
-URL: [Bill Gates Tribute Page](https://saintaze.github.io/Tribute-Page-Template/)
+URL: [Bill Gates Tribute Page](https://saintaze.github.io/Bill-Gates-Tribute-Page/)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
